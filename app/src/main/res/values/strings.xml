@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ball</string>
+
+    <string name="dificultad">Please choose starting level:</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Standard</string>
+    <string name="dificil">Dificult</string>
+    <string name="ayuda">Help</string>
+    <string name="texto_ayuda">
+
+        El objetivo del juego es evitar que la pelota caiga al suelo, tocando la pelota con el
+        dedo \n\n
+        Para empujar la pelota en una dirección concreta, pulsaremos en la pantalla en la
+        dirección contraria \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  Ánimo!!
+    </string>
+</resources>
